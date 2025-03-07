@@ -135,7 +135,3 @@ await page.goto("/");
 // 非推奨（絶対URL）
 await page.goto("http://frontend:8080/");
 ```
-
-## ライセンス
-
-MIT
